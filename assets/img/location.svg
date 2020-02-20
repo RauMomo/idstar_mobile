@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="18.929" height="20" viewBox="0 0 18.929 20">
+    <defs>
+        <style>
+            .cls-1{fill:#f23934}
+        </style>
+    </defs>
+    <path id="location" d="M19.367 18.1L18 14h-1.5l.833 4H2.667l.833-4H2L.632 18.1A1.357 1.357 0 0 0 2 20h16a1.356 1.356 0 0 0 1.367-1.9zM15 5A5 5 0 0 0 5 5c0 4.775 5 10 5 10s5-5.225 5-10zm-7.7.06a2.7 2.7 0 1 1 2.7 2.7 2.7 2.7 0 0 1-2.7-2.7z" class="cls-1" transform="translate(-.535)"/>
+</svg>

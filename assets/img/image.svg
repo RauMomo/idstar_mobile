@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="16" viewBox="0 0 20 16">
+    <defs>
+        <style>
+            .cls-1{fill-rule:evenodd}
+        </style>
+    </defs>
+    <path id="image" d="M19 2H1a1 1 0 0 0-1 1v14a1 1 0 0 0 1 1h18a1 1 0 0 0 1-1V3a1 1 0 0 0-1-1zm-1 14H2V4h16zm-3.685-5.123l-3.231 1.605-3.77-6.1L4 14h12zM13.25 9A1.25 1.25 0 1 0 12 7.75 1.25 1.25 0 0 0 13.25 9z" class="cls-1" transform="translate(0 -2)"/>
+</svg>

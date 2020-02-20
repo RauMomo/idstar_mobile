@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="Group_410" width="13.999" height="20" data-name="Group 410" viewBox="0 0 13.999 20">
+    <defs>
+        <style>
+            .cls-1{fill:#fff;font-size:8px;font-family:Roboto-Medium,Roboto;font-weight:500}
+        </style>
+    </defs>
+    <path id="clipboard" d="M15.6 2l-1.2 3H5.6L4.4 2A1.4 1.4 0 0 0 3 3.4v15.2A1.4 1.4 0 0 0 4.4 20h11.2a1.4 1.4 0 0 0 1.4-1.4V3.4A1.4 1.4 0 0 0 15.6 2zm-2 2l.9-2h-2.181L11.6 0H8.4l-.72 2H5.5l.9 2z" transform="translate(-3)"/>
+    <text id="_10" class="cls-1" data-name="10" transform="translate(2 14)">
+        <tspan x="0" y="0">10</tspan>
+    </text>
+</svg>
