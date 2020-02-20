@@ -1,0 +1,7 @@
+{
+  "name": "IDSTARS",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
